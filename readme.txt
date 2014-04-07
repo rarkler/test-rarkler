@@ -1,3 +1,3 @@
-hello
-line 2
-3
+start GitBash from start menu
+cd to gitproject
+git commands will work from there
